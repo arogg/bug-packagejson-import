@@ -1,0 +1,10 @@
+{
+  "name": "bug-packagejson-import",
+  "version": "1.0.0",
+  "workspaces": [
+    "b"
+  ],
+  "dependencies": {
+    "typescript": "^5.5.4"
+  }
+}
